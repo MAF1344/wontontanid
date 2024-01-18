@@ -98,3 +98,7 @@ footer{
 .footer i {
 	font-size: 1rem;
 }
+
+.reserve-container img{
+	opacity: 0.4;
+}
